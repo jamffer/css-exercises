@@ -8,3 +8,11 @@ div p {
 /* I used "div.container", and I understood that the 
 entire "container" turned yellow 
 and not just the p , so I fix the descendant*/
+
+/* Below are some other possible descendant combinators:
+
+div p
+div .text
+.container p
+
+*/
