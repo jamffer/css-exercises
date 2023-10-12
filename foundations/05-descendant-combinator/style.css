@@ -4,3 +4,7 @@ div p {
     text-align: center;
     background-color: yellow;
 }
+
+/* I used "div.container", and I understood that the 
+entire "container" turned yellow 
+and not just the p , so I fix the descendant*/
